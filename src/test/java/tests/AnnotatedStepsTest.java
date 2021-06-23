@@ -11,7 +11,7 @@ public class AnnotatedStepsTest {
 
     private static final String BASE_URL = "https://github.com";
     private static final String REPOSITORY = "eroshenkoam/allure-example";
-    private static final int ISSUE_NUMBER = 68;
+    private static final int ISSUE_NUMBER = 65;
 
     private WebSteps steps = new WebSteps();
 
